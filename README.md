@@ -10,5 +10,5 @@ Once it is feature ready, the tool will be released in an .EXE wrapped from this
 #Can I log issues?
 Yes, please log issues for feature requests and bug notes. However, keep in mind this is a side passion project, so development will be slow, and some features may not be implemented due to time constraints.
 
-#Can I contact you?
+# Can I contact you?
 Yes. However, I do not often check my GitHub messages.
