@@ -11,4 +11,4 @@ Once it is feature ready, the tool will be released in an .EXE wrapped from this
 Yes, please log issues for feature requests and bug notes. However, keep in mind this is a side passion project, so development will be slow, and some features may not be implemented due to time constraints.
 
 # Can I contact you?
-Yes. However, I do not often check my GitHub messages.
+Yes, you can contact me through [my LinkedIn](https://www.linkedin.com/in/kyler-stratton-b75159144/) (I wish GitHub had DMs) or by leaving a message on the discussions page of this repo.
